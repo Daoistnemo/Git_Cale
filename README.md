@@ -1,1 +1,1 @@
-# Git_Cale
+# Migthy Ducks Hockey League
